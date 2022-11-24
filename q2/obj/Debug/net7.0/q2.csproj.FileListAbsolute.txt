@@ -1,0 +1,15 @@
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/q2.csproj.AssemblyReference.cache
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/q2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/q2.AssemblyInfoInputs.cache
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/q2.AssemblyInfo.cs
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/q2.csproj.CoreCompileInputs.cache
+/home/alexey/edu/c#/c-hw_sem2/q2/bin/Debug/net7.0/q2
+/home/alexey/edu/c#/c-hw_sem2/q2/bin/Debug/net7.0/q2.deps.json
+/home/alexey/edu/c#/c-hw_sem2/q2/bin/Debug/net7.0/q2.runtimeconfig.json
+/home/alexey/edu/c#/c-hw_sem2/q2/bin/Debug/net7.0/q2.dll
+/home/alexey/edu/c#/c-hw_sem2/q2/bin/Debug/net7.0/q2.pdb
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/q2.dll
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/refint/q2.dll
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/q2.pdb
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/q2.genruntimeconfig.cache
+/home/alexey/edu/c#/c-hw_sem2/q2/obj/Debug/net7.0/ref/q2.dll
