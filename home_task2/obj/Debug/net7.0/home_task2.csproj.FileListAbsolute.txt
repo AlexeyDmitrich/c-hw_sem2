@@ -1,0 +1,15 @@
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/home_task2.csproj.AssemblyReference.cache
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/home_task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/home_task2.AssemblyInfoInputs.cache
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/home_task2.AssemblyInfo.cs
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/home_task2.csproj.CoreCompileInputs.cache
+/home/alexey/edu/c#/c-hw_sem2/home_task2/bin/Debug/net7.0/home_task2
+/home/alexey/edu/c#/c-hw_sem2/home_task2/bin/Debug/net7.0/home_task2.deps.json
+/home/alexey/edu/c#/c-hw_sem2/home_task2/bin/Debug/net7.0/home_task2.runtimeconfig.json
+/home/alexey/edu/c#/c-hw_sem2/home_task2/bin/Debug/net7.0/home_task2.dll
+/home/alexey/edu/c#/c-hw_sem2/home_task2/bin/Debug/net7.0/home_task2.pdb
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/home_task2.dll
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/refint/home_task2.dll
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/home_task2.pdb
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/home_task2.genruntimeconfig.cache
+/home/alexey/edu/c#/c-hw_sem2/home_task2/obj/Debug/net7.0/ref/home_task2.dll

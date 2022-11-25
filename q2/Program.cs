@@ -10,5 +10,5 @@ if (num1 % num2 == 0) {
 } else {
     Console.WriteLine ("Числа не кратны");
     Console.Write("Остаток: ");
-    onsole.WriteLine (num1 % num2);
+    Console.WriteLine (num1 % num2);
 }
