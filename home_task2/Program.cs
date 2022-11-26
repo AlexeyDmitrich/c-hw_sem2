@@ -9,6 +9,7 @@ void prt (string text){
     Console.WriteLine(text);
 }
 
+// расчет модуля числа для работы с отрицательными вводными
 int md (int num){
     if (num >= 0){
         return num;
@@ -17,23 +18,30 @@ int md (int num){
     }
 }
 
-// Делаю метод для определения кратности числа.
-int Range (int num){    // принимает целое число
+int secNum (int num){    // принимает целое число
     int range = 0;
     while (num != 0){
         num = num / 10;
-        Console.WriteLine(num);
+        Console.WriteLine($"Уменьшенное число {num}");
         range++;
+        Console.WriteLine($"Предполагаемый разряд {range}");
+        if (range == 4){
+            int res = (num % 10);
+            return res;
+            Console.WriteLine($"Второе число {res}");
+        }
     }
-    return range;   // метод возвращает разряд числа
+    return range;
+    Console.WriteLine($"Разряд числа = {range}");
 }
-
 
 prt("Введите число. Целое.");
 bool isInt = int.TryParse(Console.ReadLine(), out int num);
 if (!isInt){
     prt("Это что угодно, но только не целое число");
+    // todo: добавить аварийный выход
 } else {
     num = md(num);
+    Console.WriteLine($"Модуль числа  для обработки = {md(num)}");
+    Console.WriteLine($"Второе число {secNum(num)}");
 }
-Console.WriteLine(Range(num));
